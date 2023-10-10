@@ -1,0 +1,16 @@
+git init
+git status
+git remote -v
+git clone
+git init
+git status
+git add
+git rm --cached
+git commit -m
+git log
+git restore
+git --oneline
+git --oneline --pretty
+git config user.name ""
+git config user.email ""
+git checkout -b
